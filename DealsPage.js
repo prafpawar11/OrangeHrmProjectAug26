@@ -6,3 +6,4 @@ function createNewDeal(title, description, amount, expdate)
     console.log("Amount is added");
     console.log("Deals is expired");
 }
+
