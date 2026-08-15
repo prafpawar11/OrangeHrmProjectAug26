@@ -1,4 +1,5 @@
-function click()
+
+function clickOnContactLink()
 {
-    console.log("Click on link");
+    console.log("User is trying to click on contact link");
 }
